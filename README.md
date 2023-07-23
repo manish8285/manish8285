@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on [Homeorx](https://www.homeorx.in)
 
-- 🌱 I’m currently learning **Micro Services,Android Development**
+- 🌱 I’m currently learning **Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/manish8285](https://github.com/manish8285)
 
-- 💬 Ask me about **SpringBoot, ReactJs**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **ermaanish@gmail.com**
 
